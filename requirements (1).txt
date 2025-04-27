@@ -1,0 +1,23 @@
+
+# Requirements for Netflix Data Analysis & Dashboard Project
+
+## Software
+- SQL Database (MySQL Workbench, SQL Server Management Studio, or any equivalent)
+- Power BI Desktop (or Tableau, if preferred)
+
+## Environment
+- Windows 10/11 or MacOS (if using cloud database services)
+- Minimum 8GB RAM (for handling larger datasets smoothly)
+
+## Files
+- Netflix_Data_Cleaning.sql
+- Business Problems.sql
+- Dashboard.png
+
+## Optional Tools
+- Microsoft Excel (for initial data inspection)
+- VS Code / DBeaver (for SQL scripting)
+
+## Notes
+- Ensure the SQL environment allows importing CSV or equivalent data.
+- Power BI should have permissions to connect to SQL Database if live connection is needed.
